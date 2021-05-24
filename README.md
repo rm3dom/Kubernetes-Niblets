@@ -10,6 +10,6 @@ Links / Scripts / Notes to myself.
   
 ### kubectl
 
-* [kubectl bashrc](kubectl-bashrc/README.md)
+* [kubectl bashrc](kubectl-bashrc/)
 
 
